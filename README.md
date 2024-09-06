@@ -9,7 +9,7 @@ Recipe creators also upload video materials of the cooking process to the app
 		</tr>
 		<tr>
 			<td>
-			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/recipedia/snippet.gif" alt="Snippet"></img>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/recipedia/snipp.gif" alt="Snippet"></img>
 			</td>
 		</tr>
 		<tr>
