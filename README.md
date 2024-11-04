@@ -1,5 +1,5 @@
 # Recipedia
-Recipedia is an app where users upload and also get access to recipes of different meals<br>
+Recipedia is an app where users upload and also get access to recipes of different meals and their recipe<br>
 Recipe creators also upload video materials of the cooking process to the app
 
 <table align="center">
